@@ -1,8 +1,9 @@
 .DS_Store
 /node_web/node_modules/
-/blog_web/node_modules/
-/mange_web/build/
-/blog_web/dist/
+/mange_web1/node_modules/
+/blog_web1/node_modules/
+/mange_web1/build/
+/blog_web1/dist/
 
 
 # local env files
