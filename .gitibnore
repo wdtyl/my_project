@@ -1,7 +1,8 @@
 .DS_Store
-node_modules
-build
-dist
+/node_web/node_modules/
+/blog_web/node_modules/
+/mange_web/build/
+/blog_web/dist/
 
 
 # local env files
